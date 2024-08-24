@@ -3,7 +3,7 @@ The Live Cricket Scoreboard is an application designed to provide real-time upda
 
 VideoPlayerSwing.java: This file plays a video which goes to the home page at the end of it.
 
-HomePageSwing.java: This is the basic homepage where the type of match is selected.
+HomePageSwing.java: This is the basic homepage where the basic options are displayed.
 
 OverOptionSwing.java: Handles the user interface for selecting the number of overs in the game.
 
